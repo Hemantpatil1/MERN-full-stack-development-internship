@@ -1,4 +1,4 @@
-# git hands on 
+# Git hands on 
 1. git config --global user.email "you@example.com"
     run only once on system
 2. git config --global user.name "Your Name"
@@ -13,5 +13,3 @@
     run only once per repo/project
     change the url to repo url
 9. git push 
-10. 
-11. 
